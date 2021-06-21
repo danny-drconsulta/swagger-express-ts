@@ -3,6 +3,7 @@ const ts = require('gulp-typescript');
 const sourcemaps = require('gulp-sourcemaps');
 const clean = require('gulp-clean');
 const tslint = require('gulp-tslint');
+const teste = "teste";
 
 const path = {
     src: 'src/**/*.ts',
